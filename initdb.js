@@ -22,7 +22,7 @@ const dummyMeals = [
          Complete the assembly with the top bun and serve hot.
     `,
     creator: "Bob Bobson",
-    creator_email: "johndoe@example.com",
+    creator_email: "bob@example.com",
   },
   {
     title: "Spicy Curry",
@@ -69,7 +69,7 @@ const dummyMeals = [
          Enjoy these dumplings hot, with a dipping sauce of your choice.
     `,
     creator: "Emily Emilyson",
-    creator_email: "emilychen@example.com",
+    creator_email: "emily@example.com",
   },
   {
     title: "Classic Mac n Cheese",
@@ -94,7 +94,7 @@ const dummyMeals = [
          Serve hot, garnished with parsley if desired.
     `,
     creator: "Laura Laurason",
-    creator_email: "laurasmith@example.com",
+    creator_email: "laura@example.com",
   },
   {
     title: "Authentic Pizza",
@@ -116,7 +116,7 @@ const dummyMeals = [
          Slice hot and enjoy with a sprinkle of basil leaves.
     `,
     creator: "Mario Marioson",
-    creator_email: "mariorossi@example.com",
+    creator_email: "mario@example.com",
   },
   {
     title: "Wiener Schnitzel",
@@ -138,7 +138,7 @@ const dummyMeals = [
       Serve hot with a slice of lemon and a side of potato salad or greens.
  `,
     creator: "Franz Franzson",
-    creator_email: "franzhuber@example.com",
+    creator_email: "franz@example.com",
   },
   {
     title: "Fresh Tomato Salad",
@@ -160,7 +160,7 @@ const dummyMeals = [
          Enjoy this simple, flavorful salad as a side dish or light meal.
     `,
     creator: "Sophia Sophiason",
-    creator_email: "sophiagreen@example.com",
+    creator_email: "sophia@example.com",
   },
 ];
 
