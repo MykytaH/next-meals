@@ -50,10 +50,11 @@ export default function Home() {
         <section className={classes.section}>
           <h2>Database usage for saving user meals</h2>
           <p>
-            Note that images added at request won't be available. Only images
-            that are in the data at the moment of BUILD are served by NEXT. As
-            such, adding user meals are disabled. U can use external databases
-            to avoid it. I dont do it in this project, but do it in another.
+            Note that images added at request won&apos;t be available. Only
+            images that are in the data at the moment of BUILD are served by
+            NEXT. As such, adding user meals are disabled. U can use external
+            databases to avoid it. I dont do it in this project, but do it in
+            another.
           </p>
           <p>
             U can use external databases to avoid it. I dont do it in this
